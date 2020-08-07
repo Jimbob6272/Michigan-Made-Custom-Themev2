@@ -802,10 +802,6 @@ line-height: 45px;
         text-align: center;
     }
 
-    #about {
-        background-image: url(http://www.michiganmadeweb.com/wp-content/uploads/2019/06/poly4-rotate.png);
-        background-repeat: repeat;
-    }
 }
 
 @media (max-width: 420px) {
