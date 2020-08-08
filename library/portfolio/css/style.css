@@ -236,7 +236,8 @@ section.resume-section .resume-item .resume-date {
 #experience .card h4 {
     font-family: 'Roboto Condensed', sans-serif;
     text-transform: none;
-    color: #555;
+    color: #167382;
+    font-size: 1em;
 }
 
 /*====================================================
